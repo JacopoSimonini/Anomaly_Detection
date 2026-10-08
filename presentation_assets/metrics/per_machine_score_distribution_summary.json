@@ -1,0 +1,162 @@
+[
+  {
+    "method": "ConvAE + LOF",
+    "machine_id": "00",
+    "count": 55,
+    "min": -0.5128653049468994,
+    "median": -0.427767276763916,
+    "mean": -0.37825534807687455,
+    "max": 0.005131615325808525,
+    "label": "normal"
+  },
+  {
+    "method": "ConvAE + LOF",
+    "machine_id": "00",
+    "count": 108,
+    "min": -0.5100468993186951,
+    "median": -0.09938466176390648,
+    "mean": -0.11456215064498354,
+    "max": 0.5250402092933655,
+    "label": "anomaly"
+  },
+  {
+    "method": "ConvAE + LOF",
+    "machine_id": "02",
+    "count": 49,
+    "min": -0.5028466582298279,
+    "median": -0.425700306892395,
+    "mean": -0.39106937632800975,
+    "max": 0.03148479014635086,
+    "label": "normal"
+  },
+  {
+    "method": "ConvAE + LOF",
+    "machine_id": "02",
+    "count": 73,
+    "min": -0.4886375069618225,
+    "median": -0.1734006255865097,
+    "mean": -0.06513191085972198,
+    "max": 0.759041965007782,
+    "label": "anomaly"
+  },
+  {
+    "method": "ConvAE + LOF",
+    "machine_id": "04",
+    "count": 49,
+    "min": -0.5104132294654846,
+    "median": -0.45893657207489014,
+    "mean": -0.3751987061102171,
+    "max": 0.10202716290950775,
+    "label": "normal"
+  },
+  {
+    "method": "ConvAE + LOF",
+    "machine_id": "04",
+    "count": 70,
+    "min": -0.4481571614742279,
+    "median": -0.12034183368086815,
+    "mean": -0.07282477884021188,
+    "max": 0.3755992352962494,
+    "label": "anomaly"
+  },
+  {
+    "method": "ConvAE + LOF",
+    "machine_id": "06",
+    "count": 47,
+    "min": -0.4877151846885681,
+    "median": -0.21938031911849976,
+    "mean": -0.18242496133167693,
+    "max": 0.2515038847923279,
+    "label": "normal"
+  },
+  {
+    "method": "ConvAE + LOF",
+    "machine_id": "06",
+    "count": 69,
+    "min": -0.41777950525283813,
+    "median": -0.10950542986392975,
+    "mean": -0.05021529428768849,
+    "max": 0.4108687937259674,
+    "label": "anomaly"
+  },
+  {
+    "method": "ConvAE Recon Error",
+    "machine_id": "00",
+    "count": 55,
+    "min": 0.006867529358714819,
+    "median": 0.007645850535482168,
+    "mean": 0.007897462661970745,
+    "max": 0.010684494860470295,
+    "label": "normal"
+  },
+  {
+    "method": "ConvAE Recon Error",
+    "machine_id": "00",
+    "count": 108,
+    "min": 0.006231860723346472,
+    "median": 0.007869590539485216,
+    "mean": 0.007893321401853528,
+    "max": 0.010528690181672573,
+    "label": "anomaly"
+  },
+  {
+    "method": "ConvAE Recon Error",
+    "machine_id": "02",
+    "count": 49,
+    "min": 0.006516456604003906,
+    "median": 0.0070744846016168594,
+    "mean": 0.007230806820170611,
+    "max": 0.00891717616468668,
+    "label": "normal"
+  },
+  {
+    "method": "ConvAE Recon Error",
+    "machine_id": "02",
+    "count": 73,
+    "min": 0.006390292197465897,
+    "median": 0.006937440950423479,
+    "mean": 0.007265009260289881,
+    "max": 0.008584746159613132,
+    "label": "anomaly"
+  },
+  {
+    "method": "ConvAE Recon Error",
+    "machine_id": "04",
+    "count": 49,
+    "min": 0.005926104728132486,
+    "median": 0.00643068365752697,
+    "mean": 0.006502093082027776,
+    "max": 0.007915211841464043,
+    "label": "normal"
+  },
+  {
+    "method": "ConvAE Recon Error",
+    "machine_id": "04",
+    "count": 70,
+    "min": 0.006669444963335991,
+    "median": 0.007306506158784032,
+    "mean": 0.007527996160622154,
+    "max": 0.012617832981050014,
+    "label": "anomaly"
+  },
+  {
+    "method": "ConvAE Recon Error",
+    "machine_id": "06",
+    "count": 47,
+    "min": 0.005977155640721321,
+    "median": 0.006709401961416006,
+    "mean": 0.006664064643468628,
+    "max": 0.008444220758974552,
+    "label": "normal"
+  },
+  {
+    "method": "ConvAE Recon Error",
+    "machine_id": "06",
+    "count": 69,
+    "min": 0.006105887703597546,
+    "median": 0.007026359438896179,
+    "mean": 0.007152620075351518,
+    "max": 0.009279180318117142,
+    "label": "anomaly"
+  }
+]

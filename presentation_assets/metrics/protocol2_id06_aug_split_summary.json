@@ -1,0 +1,11 @@
+{
+  "threshold_id06_files_total": 53,
+  "id06_aug_files_total": 37,
+  "id06_aug_train_files": 29,
+  "id06_aug_val_files": 8,
+  "id06_threshold_files_kept": 16,
+  "threshold_normal_files_baseline": 200,
+  "threshold_normal_files_protocol2": 163,
+  "final_test_normal_files": 200,
+  "final_test_anomaly_files": 320
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "protocol": "Baseline",
+    "method": "ConvAE + LOF",
+    "balanced_accuracy": 0.7328125000000001,
+    "auc_roc": 0.788046875,
+    "id06_false_positive_rate": 0.5106382978723404,
+    "id06_false_negative_rate": 0.3188405797101449,
+    "id06_balanced_accuracy": 0.5852605612087574
+  },
+  {
+    "protocol": "Protocol 2 ID06 Aug",
+    "method": "ConvAE + LOF",
+    "balanced_accuracy": 0.7371875,
+    "auc_roc": 0.8097187499999999,
+    "id06_false_positive_rate": 0.40425531914893614,
+    "id06_false_negative_rate": 0.34782608695652173,
+    "id06_balanced_accuracy": 0.623959296947271
+  }
+]

@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.matplotlib_cache/
+
+# Jupyter
+#.ipynb_checkpoints/
+
+# Virtual env
+.venv/
+
+# Data
+data/
+outputs/
+
+# Secrets
+.env
+
+# OS
+.DS_Store
+
+#checkpoints/
